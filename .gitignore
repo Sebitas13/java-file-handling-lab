@@ -1,0 +1,11 @@
+target/
+*.class
+data/*
+!data/.gitkeep
+.idea/
+*.iml
+.vscode/
+.env
+.env.*
+*.log
+javadoc/
