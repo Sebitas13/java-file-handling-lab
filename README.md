@@ -1,5 +1,7 @@
 # Java File Handling Lab
 
+[![Java CI](https://github.com/Sebitas13/java-file-handling-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/Sebitas13/java-file-handling-lab/actions/workflows/ci.yml)
+
 Small console project to practice **text files, CSV parsing, object serialization, composition and defensive file I/O** in Java.
 
 > Educational project. The sample data is fictional and the repository does not contain real personal data or credentials. The app is not intended to store real personal data.
